@@ -1,0 +1,15 @@
+Best score: 39
+Average score (last 100): 13.48
+Total games: 700
+num_games: 700
+lr: 0.001
+gamma: 0.9
+reward_food: 10
+reward_death: -10
+reward_idle: 0
+max_memory: 100000
+batch_size: 1000
+hidden_size: 256
+start_epsilon: 90
+min_epsilon: 5
+epsilon_decay_rate: 0.995
