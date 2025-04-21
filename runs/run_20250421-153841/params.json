@@ -1,0 +1,17 @@
+{
+    "num_games": 1000,
+    "lr": 0.001,
+    "gamma": 0.99,
+    "reward_food": 5,
+    "reward_death": -10,
+    "reward_idle": 0,
+    "max_memory": 100000,
+    "batch_size": 1000,
+    "hidden_sizes": [
+        256
+    ],
+    "start_epsilon": 90,
+    "min_epsilon": 5,
+    "epsilon_decay_rate": 0.995,
+    "seed": 42
+}
