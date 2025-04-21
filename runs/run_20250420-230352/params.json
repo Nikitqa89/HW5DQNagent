@@ -1,8 +1,0 @@
-{
-    "num_games": 1000,
-    "lr": 0.01,
-    "gamma": 0.85,
-    "reward_food": 1,
-    "reward_death": -5,
-    "reward_idle": 0
-}
