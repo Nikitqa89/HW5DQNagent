@@ -33,7 +33,7 @@ python
 MODEL_PATH = "runs/run_20250421-173012/best_model.pth"  # укажите свой путь
 PARAMS_PATH = "runs/run_20250421-173012/params.json"    # укажите свой путь
 
-Запуск:
+Запуск симуляции обученной модели:
 python simulate.py
 
 ⚙️ Гиперпараметры
